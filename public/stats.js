@@ -1,6 +1,6 @@
 // get all workout data from back-end
 
-fetch("/api/workouts/range")
+fetch("http://localhost:9000/api/workouts/range")
   .then(response => {
     return response.json();
   })
