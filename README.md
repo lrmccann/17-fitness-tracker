@@ -1,0 +1,1 @@
+I think everyone can agree that fitness is the key to a happy, healthy, balanced life and during COVID this could not be more true. In this application I created a simple workout tracker that helps the user stay active and track their previous workouts. I use MongoDB to store each workout (type, length, reps, sets) with a mongoose schema and handle routes using Express.
